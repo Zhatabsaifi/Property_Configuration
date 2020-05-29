@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="32d98bae-6e48-4c2e-a56e-45cf5208ab72" name="Default Changelist" comment="" />
+    <list default="true" id="32d98bae-6e48-4c2e-a56e-45cf5208ab72" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/springframework/config/PropertyConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/guru/springframework/config/PropertyConfig.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,12 +17,17 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1cap8GgdapqFdlXFFhlccb7UDyf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
@@ -39,9 +47,11 @@
     <configuration name="DiDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="di-demo" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="guru.springframework.DiDemoApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <envs>
+        <env name="USERNAME" value="Aftab" />
+      </envs>
+      <method v="2" />
     </configuration>
   </component>
   <component name="SvnConfiguration">
@@ -54,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590776397735</updated>
-      <workItem from="1590776409633" duration="1614000" />
+      <workItem from="1590776409633" duration="3751000" />
     </task>
     <servers />
   </component>
@@ -62,41 +72,53 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="424" y="0" width="702" height="824" key="#DiDemoApplication" timestamp="1590779476681">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="424" y="0" width="702" height="824" key="#DiDemoApplication/0.0.1536.824@0.0.1536.824" timestamp="1590779476681" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590780227617">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1590780227617" />
     <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1590776865913">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1590776865913" />
-    <state width="1493" height="577" key="GridCell.Tab.0.bottom" timestamp="1590777428275">
+    <state x="637" y="162" key="EnvironmentVariablesDialog" timestamp="1590780109453">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="577" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590777428275" />
-    <state width="1493" height="577" key="GridCell.Tab.0.center" timestamp="1590777428275">
+    <state x="637" y="162" key="EnvironmentVariablesDialog/0.0.1536.824@0.0.1536.824" timestamp="1590780109453" />
+    <state width="1493" height="230" key="GridCell.Tab.0.bottom" timestamp="1590780615982">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="577" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590777428275" />
-    <state width="1493" height="577" key="GridCell.Tab.0.left" timestamp="1590777428275">
+    <state width="1493" height="230" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590780615982" />
+    <state width="1493" height="230" key="GridCell.Tab.0.center" timestamp="1590780615981">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="577" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590777428275" />
-    <state width="1493" height="577" key="GridCell.Tab.0.right" timestamp="1590777428275">
+    <state width="1493" height="230" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590780615981" />
+    <state width="1493" height="230" key="GridCell.Tab.0.left" timestamp="1590780615981">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="577" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590777428275" />
-    <state width="1493" height="577" key="GridCell.Tab.1.bottom" timestamp="1590777428276">
+    <state width="1493" height="230" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590780615981" />
+    <state width="1493" height="230" key="GridCell.Tab.0.right" timestamp="1590780615981">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="577" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590777428276" />
-    <state width="1493" height="577" key="GridCell.Tab.1.center" timestamp="1590777428276">
+    <state width="1493" height="230" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590780615981" />
+    <state width="1493" height="230" key="GridCell.Tab.1.bottom" timestamp="1590780615982">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="577" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1590777428276" />
-    <state width="1493" height="577" key="GridCell.Tab.1.left" timestamp="1590777428275">
+    <state width="1493" height="230" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590780615982" />
+    <state width="1493" height="230" key="GridCell.Tab.1.center" timestamp="1590780615982">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="577" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1590777428275" />
-    <state width="1493" height="577" key="GridCell.Tab.1.right" timestamp="1590777428276">
+    <state width="1493" height="230" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1590780615982" />
+    <state width="1493" height="230" key="GridCell.Tab.1.left" timestamp="1590780615982">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="577" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1590777428276" />
+    <state width="1493" height="230" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1590780615982" />
+    <state width="1493" height="230" key="GridCell.Tab.1.right" timestamp="1590780615982">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="230" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1590780615982" />
   </component>
 </project>
